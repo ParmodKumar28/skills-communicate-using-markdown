@@ -9,3 +9,6 @@
 
 ``` javascript
 var value = "hey guys"
+
+- [] Learn github lecture
+- [] learn github actions
